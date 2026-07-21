@@ -1,6 +1,6 @@
+/** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  images: { unoptimized: true },
-  basePath: '/storyshop',
-}
-module.exports = nextConfig
+  output: "export",
+};
+
+export default nextConfig;
