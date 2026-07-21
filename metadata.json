@@ -1,0 +1,6 @@
+{
+  "name": "فروشگاه آنلاین - Modern Online Store",
+  "description": "یک فروشگاه آنلاین مدرن و فوق‌العاده زیبا با پشتیبانی کامل از زبان فارسی، سبد خرید، فیلتر محصولات، خریدهوشمند، رهگیری سفارشات و بکند Express/Node.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
